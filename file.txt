@@ -1,1 +1,1 @@
-"Different line from main branch" 
+This is a new change from master branch.
